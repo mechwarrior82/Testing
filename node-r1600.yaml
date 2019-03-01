@@ -1,5 +1,5 @@
 #cloud-config
-hostname: node-R1600
+hostname: node-r1600
 rancher:  
  network:
   dns:
