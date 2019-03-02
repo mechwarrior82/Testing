@@ -4,8 +4,7 @@ rancher:
  network:
   dns:
    nameservers:
-   - 8.8.8.8
-   - 8.8.4.4
+   - 10.4.117.130
   interfaces:
    eth*: 
     dhcp: false
